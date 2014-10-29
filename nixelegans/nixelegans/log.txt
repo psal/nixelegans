@@ -1,0 +1,6 @@
+program started...
+DISPLAY CALLED
+ESC Pressed, shutting down visualization
+
+ ---------- END OF A RUN ---------- 
+
