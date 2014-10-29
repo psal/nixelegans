@@ -49,7 +49,6 @@
 		661BBD9419C5EF1F00B3F78F /* CPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPoint.h; sourceTree = "<group>"; };
 		661BBD9519C5EF1F00B3F78F /* neuromuscle.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = neuromuscle.txt; sourceTree = "<group>"; };
 		661BBD9619C5EF1F00B3F78F /* Physics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Physics.h; sourceTree = "<group>"; };
-		661BBD9719C5EF1F00B3F78F /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		661BBD9A19C5EF1F00B3F78F /* VectorMath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VectorMath.h; sourceTree = "<group>"; };
 		661BBD9E19C5EF3C00B3F78F /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
 		661BBDA019C5EF4200B3F78F /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
@@ -118,7 +117,6 @@
 				661BBD9419C5EF1F00B3F78F /* CPoint.h */,
 				661BBD9519C5EF1F00B3F78F /* neuromuscle.txt */,
 				661BBD9619C5EF1F00B3F78F /* Physics.h */,
-				661BBD9719C5EF1F00B3F78F /* README */,
 				661BBD9A19C5EF1F00B3F78F /* VectorMath.h */,
 				661BBD6619C5EC5900B3F78F /* main.cpp */,
 				661BBD6819C5EC5900B3F78F /* nixElegans.1 */,
